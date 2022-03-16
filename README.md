@@ -25,5 +25,9 @@ ________________________________________________________________________________
 ---> 16/03/2022 <---
   $ "Calculadora Reversa"
     - A “calculadora oposta”, lê dois números, realiza uma operação (soma, subtração, multiplicação ou divisão) e mostra seu valor oposto (se o resultado for negativo, escreve o valor positivo, se o resultado for positivo, escreve o valor negativo).
+    
   * "bem-vindo"
     - O programa “bem-vindo” pergunta seu nome e sobrenome, e depois gentilmente te cumprimenta.
+
+  * "Tempo de vida"
+    - O programa “Tempo de vida” irá imprimir a soma das idades de todos os colegas da sua equipe (6 pessoas). Pergunte a cada um a idade e não esqueça a sua! Depois faça a atribuição direta da expressão em uma variável inteira
