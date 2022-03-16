@@ -25,3 +25,5 @@ ________________________________________________________________________________
 ---> 16/03/2022 <---
   $ "Calculadora Reversa"
     - A “calculadora oposta”, lê dois números, realiza uma operação (soma, subtração, multiplicação ou divisão) e mostra seu valor oposto (se o resultado for negativo, escreve o valor positivo, se o resultado for positivo, escreve o valor negativo).
+  * "bem-vindo"
+    - O programa “bem-vindo” pergunta seu nome e sobrenome, e depois gentilmente te cumprimenta.
