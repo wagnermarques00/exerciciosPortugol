@@ -22,12 +22,22 @@ ________________________________________________________________________________
     - Crie um algoritmo em que você digite seu nome e idade e ele coloque na tela em um formato de frase.
 
 
+
 ---> 16/03/2022 <---
+
   * "Calculadora Reversa"
     - A “calculadora oposta”, lê dois números, realiza uma operação (soma, subtração, multiplicação ou divisão) e mostra seu valor oposto (se o resultado for negativo, escreve o valor positivo, se o resultado for positivo, escreve o valor negativo).
     
   * "bem-vindo"
     - O programa “bem-vindo” pergunta seu nome e sobrenome, e depois gentilmente te cumprimenta.
 
+  % "mini calculadora"
+    - Crie o programa “mini calculadora”, que após ler dois números inteiros apresenta as operações de soma, subtração, multiplicação e divisão com eles.
+      Obs.: Trate o maior número possível de erros (ex: operações com números negativos, divisão por zero, uso de letras, etc).
+  
   * "Tempo de vida"
     - O programa “Tempo de vida” irá imprimir a soma das idades de todos os colegas da sua equipe (6 pessoas). Pergunte a cada um a idade e não esqueça a sua! Depois faça a atribuição direta da expressão em uma variável inteira
+
+  * "termômetro"
+    - O programa “termômetro” lê uma temperatura em graus celsius, e devolve sua equivalência na escala fahrenheit. (Use: F = C * 1, 8 + 32)
+
