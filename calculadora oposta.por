@@ -1,5 +1,7 @@
 programa
 {
+	//A “calculadora oposta”, lê dois números, realiza uma operação (soma, subtração, multiplicação ou divisão) e mostra seu valor oposto (se o resultado for negativo, escreve o valor positivo, se o resultado for positivo, escreve o valor negativo).
+	
 	real numero1, numero2, adicao, divisao, multiplicacao, subtracao, resultado
 	caracter operacao
 	
