@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 
 ---> 16/03/2022 <---
-  $ "Calculadora Reversa"
+  * "Calculadora Reversa"
     - A “calculadora oposta”, lê dois números, realiza uma operação (soma, subtração, multiplicação ou divisão) e mostra seu valor oposto (se o resultado for negativo, escreve o valor positivo, se o resultado for positivo, escreve o valor negativo).
     
   * "bem-vindo"
