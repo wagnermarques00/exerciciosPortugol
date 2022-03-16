@@ -15,11 +15,12 @@ programa
 
 
 
-	inteiro idadeColega1, idadeColega2, idadeColega3, idadeColega4, idadeColega5, minhaIdade, somaDasIdades
+	inteiro idadeColega1
+, idadeColega2, idadeColega3, idadeColega4, idadeColega5, minhaIdade, somaDasIdades
 	
 	funcao inicio()
 	{
-		escreva("-->Tempo de vida<--")
+		escreva("-->Tempo de vida<--\n")
 		
 		escreva("Qual é a idade do colega 1? ")
 		leia(idadeColega1)
