@@ -34,6 +34,11 @@ ________________________________________________________________________________
   % "mini calculadora"
     - Crie o programa “mini calculadora”, que após ler dois números inteiros apresenta as operações de soma, subtração, multiplicação e divisão com eles.
       Obs.: Trate o maior número possível de erros (ex: operações com números negativos, divisão por zero, uso de letras, etc).
+      
+  * "Riuju"
+    - O programa “Riuju” escreve na tela o resultado das expressões abaixo:
+      a = 2 + 3 - 5 * 8 - 4 + 354 - 521 + 7 * 66
+      b = 2 + 7 * (14 - 21) + 28 * 3 * 42 + 740 - (156 + 4 + 40) * 9
   
   * "Tempo de vida"
     - O programa “Tempo de vida” irá imprimir a soma das idades de todos os colegas da sua equipe (6 pessoas). Pergunte a cada um a idade e não esqueça a sua! Depois faça a atribuição direta da expressão em uma variável inteira
