@@ -46,3 +46,6 @@ ________________________________________________________________________________
   * "termômetro"
     - O programa “termômetro” lê uma temperatura em graus celsius, e devolve sua equivalência na escala fahrenheit. (Use: F = C * 1, 8 + 32)
 
+  * "Usuário e senha"
+    - Algorítmo básico para inclusão de usuário e senha, só para brincadeira mesmo
+
