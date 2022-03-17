@@ -49,3 +49,11 @@ ________________________________________________________________________________
   * "Usuário e senha"
     - Algorítmo básico para inclusão de usuário e senha, só para brincadeira mesmo
 
+
+
+---> 17/03/2022 <---
+
+  * "Qual o significado da vida, do universo e tudo mais"
+    - Criar o programa “Qual o significado da vida, do universo e tudo mais?”. Ao clicar, deve aparecer no console o número do universo. O programa terá uma variável Inteira, com identificador “Universo”, onde você irá atribuir o número em questão. Após a atribuição, escreva na tela o conteúdo da variável.
+
+  *
