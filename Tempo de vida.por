@@ -15,13 +15,13 @@ programa
 
 
 
-	inteiro idadeColega1
-, idadeColega2, idadeColega3, idadeColega4, idadeColega5, minhaIdade, somaDasIdades
+	inteiro idadeColega1, idadeColega2, idadeColega3, idadeColega4, idadeColega5, minhaIdade, somaDasIdades
 	
 	funcao inicio()
 	{
 		escreva("-->Tempo de vida<--\n")
-		
+
+		//Entrada de dados
 		escreva("Qual é a idade do colega 1? ")
 		leia(idadeColega1)
 		escreva("Qual é a idade do colega 2? ")
@@ -34,21 +34,11 @@ programa
 		leia(idadeColega5)
 		escreva("Qual é a minha idade? ")
 		leia(minhaIdade)
-
+	
+	//Variável para facilitar as somas
 		somaDasIdades = idadeColega1 + idadeColega2 + idadeColega3 + idadeColega4 + idadeColega5 + minhaIdade
-
+	//Saída de dados
 		escreva("O tempo de vida meu e dos meus colegas é " + somaDasIdades + ".")
 		
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 652; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
