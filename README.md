@@ -53,7 +53,22 @@ ________________________________________________________________________________
 
 ---> 17/03/2022 <---
 
+  * "Educado"
+    - O programa "Educado" irá perguntar seu nome, e também como você gostaria de ser chamado. Depois disso uma saudação para você aparece na tela
+
+  * "Faço parte"
+    - O sistema “Faço parte” vai te mostrar um histórico da trajetória de nossa cidade. O resultado apresentado na tela será: “Teresópolis tem X anos. Desses, Y foram antes de mim. Mas os últimos Z anos contaram comigo!”. Cada letra maiúscula do texto será uma variável, sendo que “x” e “z” são valores fixos, e “y” irá conter uma expressão.
+
+  * "Mais que mil"
+    - O sistema “Mais que mil” irá apresentar o resultado da soma dos 4 primeiros múltiplos de 4 acima de mil, subtraindo dos 4 primeiros números primos a partir de um.
+    - 
+  * "Sobre a Empresa Alterdata"
+    - Escrever o programa “Sobre a Empresa Alterdata”. Sua saída será a mensagem: “A Alterdata tem x anos.”, onde o x é a idade da empresa. A idade será atribuída em uma variável inteira.
+
   * "Qual o significado da vida, do universo e tudo mais"
     - Criar o programa “Qual o significado da vida, do universo e tudo mais?”. Ao clicar, deve aparecer no console o número do universo. O programa terá uma variável Inteira, com identificador “Universo”, onde você irá atribuir o número em questão. Após a atribuição, escreva na tela o conteúdo da variável.
 
-  *
+  * "Total de produtos"
+    - Um programa "Total de produtos" irá solicitar que o cliente digite quantos produtos irá comprar. Depois, exibe a mensagem: "Parabéns por comprar x produtos!", substituindo x pela quantidade.
+
+ 
