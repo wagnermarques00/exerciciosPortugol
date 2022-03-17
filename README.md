@@ -53,6 +53,15 @@ ________________________________________________________________________________
 
 ---> 17/03/2022 <---
 
+  * "Betmais"
+    - O sistema “Betmais” organiza as apostas de seus amigos.
+1 - Você irá solicitar, a dez amigos, um número entre 1 e 10.
+2 - Quando você receber todos os números, então irá criar uma variável e atribuir nela os valores, da seguinte forma:
+                - Os amigos "1, 2, 3 e 4" (nomes dos amigos) responderam um número par, então você irá somar os pares.
+                - O mesmo irá acontecer para os ímpares, porém serão subtraídos.
+3 - O programa irá imprimir a soma dos pares e a subtração dos ímpares correspondentes.
+Dica: Separe o enunciado por etapas para facilitar a execução.
+
   * "Educado"
     - O programa "Educado" irá perguntar seu nome, e também como você gostaria de ser chamado. Depois disso uma saudação para você aparece na tela
 
