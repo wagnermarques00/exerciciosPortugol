@@ -1,22 +1,29 @@
+//O programa “bem-vindo” pergunta seu nome e sobrenome, e depois gentilmente te cumprimenta.
+
 programa
 {
-	//O programa “bem-vindo” pergunta seu nome e sobrenome, e depois gentilmente te cumprimenta.
-
+//Variáveis
 cadeia nome, sobrenome
 
 	funcao inicio()
 	{
-		escreva("Bem vindo!!!\n")
+		//Mensagem inicial
+		escreva("Bem vindo!!!", "\n")
 
-		
+
+		//Entrada
 		escreva("Qual o seu nome? ")
 		leia(nome)
 		escreva("E o seu sobrenome? ")
 		leia(sobrenome)
 
-		
-		escreva("Olá " + nome + " " + sobrenome + ", seja bem-vinda(o) ao universo da programação!!!")
-		
+
+		//Saída
+		escreva(	"Olá ", 
+				nome, 
+				" ", 
+				sobrenome, 
+				", seja bem-vinda(o) ao universo da programação!!!")		
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -24,7 +31,7 @@ cadeia nome, sobrenome
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 308; 
+ * @POSICAO-CURSOR = 396; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

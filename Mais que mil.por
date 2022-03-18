@@ -1,8 +1,10 @@
+/*O sistema “Mais que mil” irá apresentar: 
+ * o resultado da soma dos 4 primeiros múltiplos de 4 acima de mil, 
+ * subtraindo dos 4 primeiros números primos a partir de um.
+ */
+
 programa
 {
-//O sistema “Mais que mil” irá apresentar o resultado da soma dos 4 primeiros múltiplos de 4 acima de mil, subtraindo dos 4 primeiros números primos a partir de um.
-
-	
 	funcao inicio()
 	{
 	//Declaração de vetores dos múltiplos de 4 acima de mil e sua respectiva soma
@@ -14,7 +16,7 @@ programa
 	multiploDe4AcimaDeMil[3]
 
 	//Declaração de vetores dos 4 primeiros números primos a partir de um e sua respectiva soma
-	inteiro primeiros4NumerosPrimos[] ={2, 3, 5, 7}
+	inteiro primeiros4NumerosPrimos[] = {2, 3, 5, 7}
 	inteiro somaDosPrimeiros4NumerosPrimos =
 	primeiros4NumerosPrimos[0] +
 	primeiros4NumerosPrimos[1] +
@@ -25,9 +27,14 @@ programa
 	inteiro multiplosMenosPrimos = somaDosMultiplosDe4AcimaDeMil - somaDosPrimeiros4NumerosPrimos
 
 	//Saída de texto no console
-		escreva("A soma dos 4 primeiros múltiplos de 4 acima de 1.000 é: " + somaDosMultiplosDe4AcimaDeMil)
-		escreva("\n" + "A soma dos 4 primeiros números primos é: " + somaDosPrimeiros4NumerosPrimos)
-		escreva("\n" + "A subtração dos 4 primeiros múltiplos de 4 acima de 1.000 pelos 4 primeiros números primos é: " +  multiplosMenosPrimos)
+		escreva("A soma dos 4 primeiros múltiplos de 4 acima de 1.000 é: ",
+			   somaDosMultiplosDe4AcimaDeMil)
+		escreva("\n",
+		        "A soma dos 4 primeiros números primos é: ",
+		        somaDosPrimeiros4NumerosPrimos)
+		escreva("\n",
+		        "A subtração dos 4 primeiros múltiplos de 4 acima de 1.000 pelos 4 primeiros números primos é: ", 
+		        multiplosMenosPrimos)
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -35,7 +42,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 38; 
+ * @POSICAO-CURSOR = 905; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
