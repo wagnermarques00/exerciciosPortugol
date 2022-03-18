@@ -81,3 +81,10 @@ Dica: Separe o enunciado por etapas para facilitar a execução.
     - Um programa "Total de produtos" irá solicitar que o cliente digite quantos produtos irá comprar. Depois, exibe a mensagem: "Parabéns por comprar x produtos!", substituindo x pela quantidade.
 
  
+
+---> 18/03/2022 <---
+
+  * "Ver os seus pontos"
+    - O “Programa de fidelidade” solicitou a criação do sistema “Ver os seus pontos”, onde o cliente poderá consultar seu saldo de pontos. O cliente irá digitar um número inteiro correspondente aos seus cupons. Cada cupom corresponde a 1 ponto.
+
+
