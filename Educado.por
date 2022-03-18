@@ -1,23 +1,28 @@
+/*O programa "Educado" irá perguntar seu nome, e também como você gostaria de ser chamado. 
+ *Depois disso uma saudação para você aparece na tela
+ */
+
 programa
 {
-//O programa "Educado" irá perguntar seu nome, e também como você gostaria de ser chamado. 
-//Depois disso uma saudação para você aparece na tela	
-
 	funcao inicio()
 	{
+
 	//2 nomes, 2 variáveis
-	cadeia nomeInicial,nomeDesejado
+	cadeia nomeInicial, nomeDesejado
+
 
 	//Entradas
-		escreva("Olá, qual o seu nome?" + "\n")
+		escreva("Olá, qual o seu nome?", "\n")
 		leia(nomeInicial)
 
-		escreva("Como você gostaria de ser chamado?" + "\n")
+		escreva("Como você gostaria de ser chamado?", "\n")
 		leia(nomeDesejado)
 
+
 	//Saída
-		escreva("Olá " + nomeDesejado + ", prazer em te conhecer!!!")
-		
+		escreva  ("Olá ", 
+				nomeDesejado, 
+				", prazer em te conhecer!!!")
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -25,7 +30,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 34; 
+ * @POSICAO-CURSOR = 228; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
